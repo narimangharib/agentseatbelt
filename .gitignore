@@ -1,0 +1,9 @@
+/*
+
+!/.gitignore
+!/README.md
+!/LICENSE
+!/assets/
+
+assets/**/.DS_Store
+assets/**/._*
